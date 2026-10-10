@@ -1,6 +1,11 @@
 # Custom-Key-Chain
 This custom key chain uses simple uses two (2) thoings an OLED with the brain such as ESP32-C3 it uses a beautiful emojis in it
 
+# Circuit-Diagram 
+
+<img width="987" height="621" alt="image" src="https://github.com/user-attachments/assets/c7485ef5-4ad0-4a95-90a8-e07441958a0c" />
+
+
 # Casing
 # Side
 
@@ -11,6 +16,9 @@ This custom key chain uses simple uses two (2) thoings an OLED with the brain su
 <img width="608" height="465" alt="Screenshot From 2026-10-09 22-12-44" src="https://github.com/user-attachments/assets/250edae9-681b-4933-89bb-a6c04f51171c" />
 
 # Bill-Of-Materials
+[BOM](key-chain.csv)
+
+
 
 | List| 
 |----------|
