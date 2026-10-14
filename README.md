@@ -1,5 +1,25 @@
-# Custom-Key-Chain
-This custom key chain uses simple uses two (2) thoings an OLED with the brain such as ESP32-C3 it uses a beautiful emojis in it
+# Key-Chain
+
+Key-Chain is a custom-designed, compact electronic keychain built around the **Seeed XIAO ESP32-C3** and a small OLED display. It is designed to be portable, customizable, and easy to carry.
+
+## Features
+- Seeed XIAO ESP32-C3 microcontroller
+- Compact OLED display interface
+- Custom-designed PCB using KiCad
+- Custom 3D-printed enclosure
+- Arduino-based firmware
+
+## Hardware
+- Seeed XIAO ESP32-C3
+- OLED display
+- Custom PCB and enclosure
+
+## Repository Structure
+- `BOM.csv` — Bill of Materials
+- `casing/` — 3D enclosure files (STEP and STL)
+- `firmware/` — Arduino firmware
+- `pcb/` — KiCad PCB, schematic, and manufacturing files
+- `gerbers.zip` — PCB fabrication files
 
 # Circuit-Diagram 
 
@@ -14,15 +34,5 @@ This custom key chain uses simple uses two (2) thoings an OLED with the brain su
 # Top 
 
 <img width="608" height="465" alt="Screenshot From 2026-10-09 22-12-44" src="https://github.com/user-attachments/assets/250edae9-681b-4933-89bb-a6c04f51171c" />
-
-# Bill-Of-Materials
-[BOM](key-chain.csv)
-
-
-
-| List| 
-|----------|
-| ESP-32-C3  |
-| OLED | 
 
  
