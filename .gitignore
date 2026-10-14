@@ -1,0 +1,5 @@
+*.kicad_prl
+pcb/*-unsaved-export*
+
+# Local design history
+.history/

@@ -1,0 +1,4 @@
+Item,Designator,Component,Footprint,Quantity,Supplier,Purchase Link,Unit Price (USD),Total Price (USD)
+1,J1,4-pin display connector,Display_128x64_096_I2C,1,,,,
+2,U1,Seeed XIAO ESP32-C3,MCU_Seeed_ESP32C3,1,,,,
+TOTAL,,,,,,,,
