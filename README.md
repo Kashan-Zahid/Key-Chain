@@ -50,12 +50,12 @@ The ADT BenchLab F1 is built using the following components:
 
 | # | Component | Quantity | Unit Price (USD) | Total (USD) | Purchase Link |
 |---|---|---:|---:|---:|---|
-| 1 | ESP32-C3 SuperMini | 1 | $3.25 | $3.25 | [Daraz](https://www.daraz.pk/) |
-| 2 | 0.96-inch OLED Display (128×64 I2C) | 1 | $2.17 | $2.17 | [Daraz](https://www.daraz.pk/) |
+| 1 | ESP32-C3 SuperMini | 1 | $3.72 | $3.72 | [Daraz](https://www.daraz.pk/) |
+| 2 | 0.96-inch OLED Display (128×64 I2C) | 1 | $2.68 | $2.68 | [Daraz](https://www.daraz.pk/) |
 | 3 | Custom 3D-Printed Enclosure | 1 | $5.50 | $5.50 | [PCBWay](https://www.pcbway.com/rapid-prototyping/3d-printing/) |
 | 4 | Shipping | 1 | $5.00 | $5.00 | — |
-| | **Grand Total** | | | **$12.92** | |
+| | **Grand Total** | | | **$16.92** | |
 
-**Estimated Project Cost:** $17.92 USD
+**Estimated Project Cost:** $16.92 USD
 
 **Note:** Prices are estimates and may vary depending on supplier availability, shipping, and manufacturing requirements.
