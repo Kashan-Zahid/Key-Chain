@@ -19,6 +19,14 @@ Key-Chain is a custom-designed, compact electronic keychain built around the **S
 
 its very easy to get assemble you have to get you parts in pcb or in te way joints may not be lose and nextly you have to get 3dprinted enclousre while to enclouse have mounting you have just your pcb hole and tigh with them with a small size screws
 
+## CAD Design Files
+
+The mechanical design of Key-Chain was created using Onshape.
+
+- **Source CAD:** [Open Onshape CAD Document](https://cad.onshape.com/documents/9531d2680ad173a3f0764e6b/w/4679d789d222c1182b86bd9a/e/7346bb77ef748f15ea65b619)
+- **Enclosure STEP:** `casing/Key Chain.step`
+- **PCB STEP:** `pcb/key-chain.step`
+
 
 ## Repository Structure
 - `BOM.csv` — Bill of Materials
