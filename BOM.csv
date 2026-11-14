@@ -1,4 +1,6 @@
-Item,Designator,Component,Footprint,Quantity,Supplier,Purchase Link,Unit Price (USD),Total Price (USD)
-1,J1,4-pin display connector,Display_128x64_096_I2C,1,,,,
-2,U1,Seeed XIAO ESP32-C3,MCU_Seeed_ESP32C3,1,,,,
-TOTAL,,,,,,,,
+Item,Designator,Component,Footprint,Quantity,Supplier,Purchase Link,Unit Price (USD),Total Price (USD),Unit Price (PKR),Total Price (PKR)
+1,J1,4-pin display connector,PinSocket_1x04_P2.54mm,1,Daraz Pakistan,VERIFY LISTING,0.83,0.83,230,230
+2,U1,ESP32-C3 SuperMini,ESP32C3_SuperMini_2x8,1,Daraz Pakistan,VERIFY LISTING,3.25,3.25,899,899
+3,ENC1,3D printed enclosure,Custom 3D Print,1,Local 3D Printing Service,QUOTE REQUIRED,5.50,5.50,1524,1524
+4,SHIP1,Shipping and delivery,Shipping,1,Local Supplier,QUOTE REQUIRED,2.00,2.00,554,554
+TOTAL,,,,4,,,,11.58,3207
