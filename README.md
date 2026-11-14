@@ -2,6 +2,7 @@
 
 Key-Chain is a custom-designed, compact electronic keychain built around the **Seeed XIAO ESP32-C3** and a small OLED display. It is designed to be portable, customizable, and easy to carry.
 
+
 ## Features
 - Seeed XIAO ESP32-C3 microcontroller
 - Compact OLED display interface
@@ -13,6 +14,11 @@ Key-Chain is a custom-designed, compact electronic keychain built around the **S
 - Seeed XIAO ESP32-C3
 - OLED display
 - Custom PCB and enclosure
+
+## How Assemble
+
+its very easy to get assemble you have to get you parts in pcb or in te way joints may not be lose and nextly you have to get 3dprinted enclousre while to enclouse have mounting you have just your pcb hole and tigh with them with a small size screws
+
 
 ## Repository Structure
 - `BOM.csv` — Bill of Materials
@@ -27,6 +33,7 @@ Key-Chain is a custom-designed, compact electronic keychain built around the **S
 
 
 # Casing
+
 # Side
 
 <img width="480" height="270" alt="Screenshot From 2026-10-09 22-12-33" src="https://github.com/user-attachments/assets/7a89ab4c-c983-4717-b5e5-b7e14fe71e77" />
@@ -34,5 +41,14 @@ Key-Chain is a custom-designed, compact electronic keychain built around the **S
 # Top 
 
 <img width="608" height="465" alt="Screenshot From 2026-10-09 22-12-44" src="https://github.com/user-attachments/assets/250edae9-681b-4933-89bb-a6c04f51171c" />
+
+
+
+## Bill Of Materials
+
+1. ESP32C3
+2. 0.96in OLED
+3. 3d printed Enclouser
+
 
  
